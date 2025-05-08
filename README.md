@@ -21,19 +21,13 @@
 
 ### :man_technologist: About Me :
 
--  📍 I am a Full Stack MERN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.                                         
+-  📍 I am Data Scientist/Data Analyst <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZiMXF5a3oyMXV5NDFuMHBrY2FndmdkcTd3a245eXV5eTQ0ZDhsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KgFD8lRvyPDi9PGnrJ/giphy.gif)" width="30"> from India.                                         
                                                                             
--  🌱 I’m currently learning & working on ReactJs
+-  🌱 I’m currently learning & working on SQL, statistical programming, and data visualization tools
 
--  👨‍💻 Creating real time projects excites me a lot, exploring new technologies gradually with enthusiasm, I like the process of learnings, implementation, debugging    while programming which help me to grow day by day.
+-  👨‍💻 Creating real time projects excites me a lot, exploring new technologies gradually with enthusiasm, I like the process of learnings, implementation, debugging.
 
--  🔥 I'm looking for an full time react developer opportunity.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-  🔥 I'm looking for an full time Data Scientist/Data Analyst role.
 
 ---
 
