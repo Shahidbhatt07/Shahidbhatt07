@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
--  📍 I am Data Scientist/Data Analyst <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZiMXF5a3oyMXV5NDFuMHBrY2FndmdkcTd3a245eXV5eTQ0ZDhsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KgFD8lRvyPDi9PGnrJ/giphy.gif)" width="30"> from India.                                         
+-  📍 I am Data Scientist/Data Analyst <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzaXowczg0bXU1bjVkeWU1dzMwMjFhc292NndvOTBlODA0ZWcxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="30"> from India.                                         
                                                                             
 -  🌱 I’m currently learning & working on SQL, statistical programming, and data visualization tools
 
