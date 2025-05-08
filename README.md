@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="70" height="70"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="150" height="70"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="250" height="70"/>&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="70" height="70"/>&nbsp;
   <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets" alt="Google Sheets" width="70" height="70"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/50/combo-chart--v1.png" title="Statistics" alt="Statistics" width="70" height="70"/>&nbsp;
