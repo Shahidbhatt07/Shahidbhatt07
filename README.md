@@ -21,14 +21,12 @@
 
 ### :man_technologist: About Me :
 
--  📍 I am Data Scientist/Data Analyst <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQzaXowczg0bXU1bjVkeWU1dzMwMjFhc292NndvOTBlODA0ZWcxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="30"> from India.                                         
-                                                                            
--  🌱 I’m currently learning & working on SQL, statistical programming, and data visualization tools
-
--  👨‍💻 Creating real time projects excites me a lot, exploring new technologies gradually with enthusiasm, I like the process of learnings, implementation, debugging.
-
--  🔥 I'm looking for an full time Data Scientist/Data Analyst role.
-
+-  📊 Aspiring Data Analyst | Passionate about turning data into actionable insights
+-  🧠 Skilled in Python, SQL, Excel, Power BI, Tableau
+-  📈 Currently exploring Machine Learning & Statistical Modeling
+-  🎓 Google Data Analytics Certified | Continuous Learner
+-  🔍 Open to projects, collaboration, and data challenges
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,12 +39,6 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/google-sheets.png" title="Google Sheets" alt="Google Sheets" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/50/combo-chart--v1.png" title="Statistics" alt="Statistics" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="80" height="80"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" **alt="ExpressJS" width="80" height="80"/>
 </div>
 
 ---
