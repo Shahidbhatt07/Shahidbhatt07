@@ -46,6 +46,14 @@
 
 ### 🌐 Connect with Me :
 
-LinkedIn: www.linkedin.com/in/shahidahmadbhat
-Email: "bhatshahid6542@gmail.com"
-GitHub: "https://github.com/Shahidbhatt07"
+<a href="https://www.linkedin.com/in/shahidahmadbhat">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bhatshahid6542@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Shahidbhatt07">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
