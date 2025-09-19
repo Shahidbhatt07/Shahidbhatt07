@@ -47,5 +47,5 @@
 ### 🌐 Connect with Me :
 
 LinkedIn: www.linkedin.com/in/shahidahmadbhat
-Email: bhatshahid6542@gmail.com
+Email: "bhatshahid6542@gmail.com"
 GitHub: "https://github.com/Shahidbhatt07"
