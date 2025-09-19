@@ -1,7 +1,7 @@
 <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />,
-  I am Shahid
+  Hi,
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  I'm Shahid Bhat
 </h1>
 </div>
 
@@ -9,8 +9,18 @@
 
 ### 🎓 Education :
 - I hold a degree in Bachelor of Computer Science from RIMT University, where my journey - ignited a passion for solving problems involving numbers and calculations.
+---
 
-### :man_technologist: About Me :
+### 💻 Experience :
+- My journey into the tech world began with a dynamic learning in Data Science from TopMentor. This immersive experience not only honed my programming skills but also equipped me with a robust foundation for Python. With a keen focus on leveraging my programming prowess, I've intentionally prepared myself for the exciting realms of data analysis and machine learning. This journey has been a deliberate step towards applying my programming acumen to solve complex problems and extract meaningful insights from data.
+---
+
+### 🚀 My current endeavours :
+- I am currently on a learning adventure with Topmentor, specializing in Masters Data Science. Here, I not only delve into various data analysis techniques and implement Machine Learning algorithms but also actively contribute to real-world projects. In a recent project, I utilized my skills in database management with MySQL to ensure efficient data handling, and leveraged the power of Tableau for intuitive data visualization, creating impactful dashboards for insightful decision-making. My ability to seamlessly integrate data from diverse sources and present it coherently sets me apart.
+---
+
+
+### :man_technologist: My Analytics Journey:
 
 -  📊 Aspiring Data Analyst | Passionate about turning data into actionable insights
 -  🧠 Skilled in Python, SQL, Excel, Power BI, Tableau
@@ -34,3 +44,8 @@
 
 ---
 
+### 🌐 Connect with Me :
+
+LinkedIn: www.linkedin.com/in/shahidahmadbhat
+Email: bhatshahid6542@gmail.com
+GitHub: "https://github.com/Shahidbhatt07"
