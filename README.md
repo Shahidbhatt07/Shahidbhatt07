@@ -7,6 +7,9 @@
 
 ---
 
+### 🎓 Education :
+- I hold a degree in Bachelor of Computer Science from RIMT University, where my journey - ignited a passion for solving problems involving numbers and calculations.
+
 ### :man_technologist: About Me :
 
 -  📊 Aspiring Data Analyst | Passionate about turning data into actionable insights
