@@ -45,8 +45,20 @@
 ---
 
 ### 🌐 Connect with Me :
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatshahid6542@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+<a href="https://www.linkedin.com/in/shahidahmadbhat">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>www.linkedin.com/in/shahidahmadbhat</b>
+<br>
+<a href="https://github.com/Shahidbhatt07">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>https://github.com/Shahidbhatt07</b>
+<br>
+<a href="mailto:bhatshahid6542@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>bhatshahid6542@gmail.com</b>
